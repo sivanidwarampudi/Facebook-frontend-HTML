@@ -1,0 +1,18 @@
+list-style: none;
+     float: left;
+     margin-left: 10px;
+     padding: 10px; 
+     background-color: red;
+     color: white;
+     border-radius: 50%;
+   } 
+a{
+    text-decoration: none;
+    color: white;
+   }
+   li:hover{
+     background-color: green;
+     padding: 15px;
+   }
+   a:hover{
+    color: blue;
